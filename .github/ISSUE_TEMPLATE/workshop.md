@@ -15,10 +15,9 @@ labels: 🛠️ workshop
 
 ### Durée :
 
-- [ ] 10 minutes
-- [ ] 20 minutes
 - [ ] 30 minutes
 - [ ] 1 heure
+- [ ] 1 heure 30 minutes
 - [ ] Autre, précisez :
 
 ### Niveau :
