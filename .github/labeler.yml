@@ -3,6 +3,6 @@
 '🔥 1 heure':
   - '- \[x\]\s*1\s*heure'
 '☀️ 1 heure et demi':
-  - '- \[x\]\s*1h30\s*$'
+  - '- \[x\]\s*1h30'
 '⏳ Durée libre':
   - '- \[x\]\s*(autre|autres?),?\s*(précisez|precisez)\s*:'
