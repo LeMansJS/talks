@@ -15,12 +15,3 @@ jobs:
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
         configuration-path: .github/labeler.yml
-
-'✨ 30 minutes':
-  - '^- \[x\] 30 minutes$'
-'⏱️ 1 heure':
-  - '^- \[x\] 1 heure$'
-'☀️ 1 heure 30 minutes':
-  - '^- \[x\] 1 heure 30 minutes$'
-'⏱️ Durée libre':
-  - '^- \[x\] Autre, précisez :$'
