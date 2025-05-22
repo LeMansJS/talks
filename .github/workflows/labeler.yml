@@ -5,14 +5,15 @@ on:
 
 permissions:
   issues: write
-  pull-requests: write
+  contents: read
 
 jobs:
   triage:
     runs-on: ubuntu-latest
     steps:
-    - uses: github/issue-labeler@v2.0
+    - uses: github/issue-labeler@v3.4
       with:
-        repo-token: "${{ secrets.GITHUB_TOKEN }}"
         configuration-path: .github/labeler.yml
         enable-versioned-regex: 0
+        sync-labels: 1
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
