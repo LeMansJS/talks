@@ -1,8 +1,8 @@
 '✨ 30 minutes':
-  - '- \[x\]\s*30\s*minutes?\s*$'
+  - '- \[x\]\s*30\s*minutes?'
 '🔥 1 heure':
-  - '- \[x\]\s*1\s*heure\s*$'
+  - '- \[x\]\s*1\s*heure'
 '☀️ 1 heure et demi':
-  - '- \[x\]\s*1\s*heure\s*(et)?\s*demi\s*$'
+  - '- \[x\]\s*1h30\s*$'
 '⏳ Durée libre':
-  - '- \[x\]\s*(autre|autres?),?\s*(précisez|precisez)\s*[:：]'
+  - '- \[x\]\s*(autre|autres?),?\s*(précisez|precisez)\s*:'

@@ -17,7 +17,7 @@ labels: 🗣️ talk
 
 - [ ] 30 minutes
 - [ ] 1 heure
-- [ ] 1 heure et demi
+- [ ] 1h30
 - [ ] Autre, précisez :
 
 ### Niveau :
